@@ -31,7 +31,6 @@ def hangman():
     guessed_letters = []
     attempts = 6
 
-    print("Welcome to Hangman!")
     print("Try to guess the word.")
 
     while attempts > 0:
@@ -39,26 +38,26 @@ def hangman():
         guess = input("Guess a letter: ").lower()
 
         if len(guess) != 1 or not guess.isalpha():
-            print("Please enter a single letter.")
+            print("Enter a single letter only")
             continue
 
         if guess in guessed_letters:
-            print("You've already guessed that letter.")
+            print("You already guessed that")
             continue
 
         guessed_letters.append(guess)
 
         if guess not in word:
             attempts -= 1
-            print("Incorrect! You have {} attempts left.".format(attempts))
+            print("Wrong you have {} attempts left.".format(attempts))
             if attempts == 0:
-                print("You've run out of attempts! The word was '{}'.".format(word))
+                print("You lost 💀 The word was '{}'.".format(word))
                 return
         else:
-            print("Correct guess!")
+            print("Correct!")
 
         if all(letter in guessed_letters for letter in word):
-            print("Congratulations! You've guessed the word '{}'.".format(word))
+            print("W you got the word '{}'.".format(word))
             return
 
 if __name__ == "__main__":
