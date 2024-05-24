@@ -16,6 +16,8 @@ One significant challenge was ensuring that the game handled various edge cases 
 Since this was an individual project, there were no explicit teamwork or leadership components involved. However, I demonstrated initiative and self-reliance by taking full ownership of the project from conception to completion. Additionally, I actively sought feedback from peers and mentors to refine the game and enhance its user experience.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Address Book Management System
 
 ## Overview
