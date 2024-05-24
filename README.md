@@ -116,5 +116,183 @@ One significant challenge was implementing input validation for division to hand
 
 Since this was an individual project, there were no explicit teamwork or leadership components involved. However, I demonstrated self-reliance and initiative by independently managing the project from conception to completion. I actively sought feedback from peers and mentors to refine the user interface and enhance the overall user experience.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# GPA Calculator
+
+## Overview
+
+The GPA Calculator project aimed to create a Python program for calculating Grade Point Average (GPA) based on user-input grades for courses. It prompts the user to enter grades for multiple courses and calculates the GPA using a standard grade point scale.
+
+## My Contribution
+
+As the sole developer of the project, I designed and implemented the entire GPA calculation system. This included defining functions for calculating GPA, obtaining positive integers and grades from the user, and managing the main program flow in the `main` function.
+
+## Learning Experience
+
+Through this project, I gained practical experience in Python programming, particularly in function definitions, error handling, and user input validation. I also enhanced my understanding of GPA calculation methodologies and grade point scales commonly used in academic institutions.
+
+## Challenges Overcame
+
+One significant challenge was implementing input validation to ensure that the number of courses entered by the user was a positive integer. I addressed this challenge by incorporating a loop and exception handling to prompt the user until a valid positive integer was provided. Additionally, I encountered minor challenges related to validating user input for grades and handling invalid inputs gracefully.
+
+## Teamwork/Leadership
+
+Since this was an individual project, there were no explicit teamwork or leadership components involved. However, I demonstrated self-reliance and initiative by independently managing the project from conception to completion. I actively sought feedback from peers and mentors to refine the user interface and enhance the overall user experience.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Password Generator
+
+## Overview
+
+The Password Generator project aimed to create a Python program for generating random passwords with customizable options. It provides functionalities for specifying password length, including/excluding character sets (lowercase letters, uppercase letters, digits, and symbols), and optionally including a specific word in the generated password.
+
+## My Contribution
+
+As the sole developer of the project, I designed and implemented the entire password generation system. This included defining functions for generating passwords, obtaining user input for password parameters, and handling error cases in the `main` function.
+
+## Learning Experience
+
+Through this project, I gained practical experience in Python programming, particularly in string manipulation, randomization, and user input handling. I also enhanced my understanding of password security best practices, including the use of diverse character sets and randomness in password generation.
+
+## Challenges Overcame
+
+One significant challenge was implementing user input validation to ensure that the specified password length was a positive integer. I addressed this challenge by incorporating error handling and validation checks to prompt the user until a valid input was provided. Additionally, I encountered minor challenges related to handling various user preferences for character set inclusion/exclusion and integrating a specific word into the generated password.
+
+## Teamwork/Leadership
+
+Since this was an individual project, there were no explicit teamwork or leadership components involved. However, I demonstrated self-reliance and initiative by independently managing the project from conception to completion. I actively sought feedback from peers and mentors to refine the user interface and enhance the overall user experience.
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# RGB to HEX Converter
+
+## Overview
+
+The RGB to HEX Converter project aimed to create a Python program for converting RGB color values to their corresponding hexadecimal representations. It prompts the user to enter RGB values (red, green, and blue) within the range of 0 to 255 and generates the corresponding hexadecimal color code.
+
+## My Contribution
+
+As the sole developer of the project, I designed and implemented the entire RGB to HEX conversion system. This included defining the `rgb_to_hex` function for converting RGB values to hexadecimal format, validating user input for RGB values, and managing the main program flow within a loop.
+
+## Learning Experience
+
+Through this project, I gained practical experience in Python programming, particularly in string formatting, conditional statements, and user input handling. I also enhanced my understanding of color representations in digital media, including the conversion between RGB and hexadecimal color codes.
+
+## Challenges Overcame
+
+One significant challenge was implementing input validation to ensure that the specified RGB values were integers within the range of 0 to 255. I addressed this challenge by incorporating conditional checks and error handling to prompt the user until valid RGB values were provided. Additionally, I encountered minor challenges related to formatting the hexadecimal color code output and integrating it into the user interface.
+
+## Teamwork/Leadership
+
+Since this was an individual project, there were no explicit teamwork or leadership components involved. However, I demonstrated self-reliance and initiative by independently managing the project from conception to completion. I actively sought feedback from peers and mentors to refine the user interface and enhance the overall user experience.
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Rock Paper Scissors Game
+
+## Overview
+
+The Rock Paper Scissors Game project aimed to create a Python program for playing the classic game of Rock Paper Scissors against a computer opponent. It provides a simple user interface for inputting choices (rock, paper, or scissors) and determining the winner based on the game rules.
+
+## My Contribution
+
+As the sole developer of the project, I designed and implemented the entire Rock Paper Scissors game system. This included defining functions for obtaining user and computer choices, determining the winner of each round, managing the game loop, and handling user input for playing again.
+
+## Learning Experience
+
+Through this project, I gained practical experience in Python programming, particularly in functions, conditional statements, and randomization. I also enhanced my understanding of game design principles, including player interaction, rule-based decision-making, and user interface design.
+
+## Challenges Overcame
+
+One significant challenge was implementing the game logic to determine the winner based on the choices of the user and computer. I addressed this challenge by carefully defining the game rules and using conditional statements to evaluate the outcome of each round. Additionally, I encountered minor challenges related to user input validation and error handling, which I resolved through careful debugging and testing.
+
+## Teamwork/Leadership
+
+Since this was an individual project, there were no explicit teamwork or leadership components involved. However, I demonstrated self-reliance and initiative by independently managing the project from conception to completion. I actively sought feedback from peers and mentors to refine the game mechanics and enhance the overall player experience.
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Restaurant Order System
+
+## Overview
+
+The Restaurant Order System project aimed to create a Python program for placing orders at a restaurant. It provides a menu with options for sandwiches, beverages, fries, and ketchup packets, allowing users to select items and customize their order. The program calculates the total cost based on the selected items and displays the order details.
+
+## My Contribution
+
+As the sole developer of the project, I designed and implemented the entire restaurant order system. This included defining dictionaries for menu items and their prices, obtaining user input for selecting items and customizing orders, calculating the total cost, and providing options for editing the order.
+
+## Learning Experience
+
+Through this project, I gained practical experience in Python programming, particularly in data structures, user input handling, and conditional statements. I also enhanced my understanding of menu design and order management in a restaurant setting, including handling customizations and calculating costs.
+
+## Challenges Overcame
+
+One significant challenge was implementing input validation to ensure that the user entered valid options for menu items and quantities. I addressed this challenge by incorporating loops and conditional checks to prompt the user until valid inputs were provided. Additionally, I encountered minor challenges related to handling order edits and displaying order details, which I resolved through careful debugging and testing.
+
+## Teamwork/Leadership
+
+Since this was an individual project, there were no explicit teamwork or leadership components involved. However, I demonstrated self-reliance and initiative by independently managing the project from conception to completion. I actively sought feedback from peers and mentors to refine the user interface and enhance the overall ordering experience.
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Todo List Management System
+
+## Overview
+
+The Todo List Management System project aimed to create a Python program for managing tasks in a todo list. It provides functionalities such as adding tasks, viewing tasks, marking tasks as completed, and deleting tasks from the todo list.
+
+## My Contribution
+
+As the sole developer of the project, I designed and implemented the entire todo list management system. This included defining the `TodoList` class with methods for adding, viewing, completing, and deleting tasks, as well as creating the main user interface loop to interact with the todo list.
+
+## Learning Experience
+
+Through this project, I gained practical experience in Python programming, particularly in object-oriented design and implementation. I also enhanced my understanding of data structures, user input handling, and error checking techniques in managing todo lists.
+
+## Challenges Overcame
+
+One significant challenge was implementing the logic to handle task completion and deletion based on user input. I addressed this challenge by carefully defining the methods for completing and deleting tasks while ensuring proper error handling for invalid task indices. Additionally, I encountered minor challenges related to user interface design and input validation, which I resolved through iterative testing and refinement.
+
+## Teamwork/Leadership
+
+Since this was an individual project, there were no explicit teamwork or leadership components involved. However, I demonstrated self-reliance and initiative by independently managing the project from conception to completion. I actively sought feedback from peers and mentors to refine the user interface and enhance the overall user experience.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
